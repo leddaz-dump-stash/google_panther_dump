@@ -1,0 +1,14 @@
+# panther-user 13 TD1A.220804.031 9071314 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: panther
+- flavor: panther-user
+- release: 13
+- id: TD1A.220804.031
+- incremental: 9071314
+- tags: release-keys
+- fingerprint: google/panther/panther:13/TD1A.220804.031/9071314:user/release-keys
+- is_ab: true
+- brand: google
+- branch: panther-user-13-TD1A.220804.031-9071314-release-keys
+- repo: google_panther_dump
