@@ -1,0 +1,14 @@
+# panther_beta-user 14 UPB5.230623.006 10698132 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: panther
+- flavor: panther_beta-user
+- release: 14
+- id: UPB5.230623.006
+- incremental: 10698132
+- tags: release-keys
+- fingerprint: google/panther_beta/panther:14/UPB5.230623.006/10698132:user/release-keys
+- is_ab: true
+- brand: google
+- branch: panther_beta-user-14-UPB5.230623.006-10698132-release-keys
+- repo: google_panther_dump
